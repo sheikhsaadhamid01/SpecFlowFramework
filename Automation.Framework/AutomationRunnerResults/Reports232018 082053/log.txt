@@ -1,0 +1,16 @@
+2023-05-18 08:20:53.954 +05:00 [DBG] ********************************************************************************
+2023-05-18 08:20:53.962 +05:00 [INF] ********************************************************************************
+2023-05-18 08:20:53.962 +05:00 [INF] Configuration |RUN PARAMETERS
+2023-05-18 08:20:53.962 +05:00 [INF] ********************************************************************************
+2023-05-18 08:20:53.962 +05:00 [INF] Configuration|BROWSER TYPE: chrome
+2023-05-18 08:20:53.962 +05:00 [INF] Configuration|BROWSER VERSION: 
+2023-05-18 08:20:53.962 +05:00 [INF] Configuration|GRID HUB URL: https://localhost:4444/wd/hub
+2023-05-18 08:20:53.962 +05:00 [INF] Configuration|REGION: T2
+2023-05-18 08:20:53.963 +05:00 [INF] Configuration|STEP SCREENSHOT: off
+2023-05-18 08:20:53.965 +05:00 [INF] Configuration|EXTENT REPORT PORTAL URL: 
+2023-05-18 08:20:53.966 +05:00 [INF] Configuration|EXTENT REPORT LOCALLY: off
+2023-05-18 08:20:53.966 +05:00 [INF] Configuration|LOG LEVEL: Debug
+2023-05-18 08:20:53.966 +05:00 [INF] Configuration|DATA SET LOCATION: C:\Users\Saad\source\repos\Automation.Framework\AutomationRunner\DataSetLocation
+2023-05-18 08:20:53.966 +05:00 [INF] Configuration|DOWNLOADED LOCATION: C:\Users\Saad\source\repos\Automation.Framework\AutomationRunner\DataSetLocation
+2023-05-18 08:20:53.966 +05:00 [INF] ********************************************************************************
+2023-05-18 08:20:53.966 +05:00 [INF] ********************************************************************************

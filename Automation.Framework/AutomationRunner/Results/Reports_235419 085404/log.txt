@@ -1,0 +1,37 @@
+2023-05-19 08:54:04.402 +05:00 [DBG] ********************************************************************************
+2023-05-19 08:54:04.409 +05:00 [INF] ********************************************************************************
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration |RUN PARAMETERS
+2023-05-19 08:54:04.409 +05:00 [INF] ********************************************************************************
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration|BROWSER TYPE: chrome
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration|BROWSER VERSION: 
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration|GRID HUB URL: https://localhost:4444/wd/hub
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration|REGION: T2
+2023-05-19 08:54:04.409 +05:00 [INF] Configuration|STEP SCREENSHOT: off
+2023-05-19 08:54:04.415 +05:00 [INF] Configuration|EXTENT REPORT PORTAL URL: 
+2023-05-19 08:54:04.415 +05:00 [INF] Configuration|EXTENT REPORT LOCALLY: off
+2023-05-19 08:54:04.415 +05:00 [INF] Configuration|LOG LEVEL: Debug
+2023-05-19 08:54:04.415 +05:00 [INF] Configuration|DATA SET LOCATION: C:\Users\Saad\source\repos\Automation.Framework\AutomationRunner\DataSetLocation
+2023-05-19 08:54:04.415 +05:00 [INF] Configuration|DOWNLOADED LOCATION: C:\Users\Saad\source\repos\Automation.Framework\AutomationRunner\DataSetLocation
+2023-05-19 08:54:04.415 +05:00 [INF] ********************************************************************************
+2023-05-19 08:54:04.415 +05:00 [INF] ********************************************************************************
+2023-05-19 08:54:04.456 +05:00 [DBG] About to Navigate to https://www.yahoo.com 
+2023-05-19 08:54:18.570 +05:00 [DBG] Navigated to https://www.yahoo.com successfully
+2023-05-19 08:54:18.570 +05:00 [INF] About to initiate wait for 2 seconds
+2023-05-19 08:54:20.580 +05:00 [DBG] About to store QATesting value in Testing using TestBase.SetDataSet Method
+2023-05-19 08:54:20.580 +05:00 [DBG] Data stored successfully in Dictionary
+2023-05-19 08:54:20.581 +05:00 [DBG] About to provide Automation Testing in //input[@id='ybar-sbq']
+2023-05-19 08:54:20.687 +05:00 [DBG] Automation Testing provided successfuly in //input[@id='ybar-sbq']
+2023-05-19 08:54:20.688 +05:00 [DBG] About to click on  button with locator: //button[@type='submit']
+2023-05-19 08:54:20.747 +05:00 [DBG] Button availabale at //button[@type='submit'] clicked successfully
+2023-05-19 08:54:20.749 +05:00 [DBG] About to Navigate to https://www.yahoo.com 
+2023-05-19 08:54:23.259 +05:00 [DBG] Navigated to https://www.yahoo.com successfully
+2023-05-19 08:54:23.259 +05:00 [INF] About to initiate wait for 2 seconds
+2023-05-19 08:54:25.278 +05:00 [DBG] About to store QATesting value in Testing using TestBase.SetDataSet Method
+2023-05-19 08:54:25.278 +05:00 [DBG] Data stored successfully in Dictionary
+2023-05-19 08:54:25.280 +05:00 [DBG] About to get stored data from dictionary for Testing
+2023-05-19 08:54:25.282 +05:00 [DBG] About to provide QATesting in Locator: //input[@id='yschsp'] to perform search
+2023-05-19 08:54:25.403 +05:00 [DBG] Succesfully provided QATesting in  Locator: //input[@id='yschsp']
+2023-05-19 08:54:25.404 +05:00 [DBG] About to click on  button with locator: //input[@id='sbq-submit']
+2023-05-19 08:54:25.752 +05:00 [DBG] Button availabale at //input[@id='sbq-submit'] clicked successfully
+2023-05-19 08:54:25.753 +05:00 [DBG] About to call Quit Method to close Browser
+2023-05-19 08:54:27.935 +05:00 [DBG] Browser closed Successfully

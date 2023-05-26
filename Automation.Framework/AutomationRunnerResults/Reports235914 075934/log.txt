@@ -1,0 +1,1 @@
+2023-05-14 20:00:04.030 +05:00 [ERR] ApplicationRegion.json do not exists.The configuration file 'applicationRegion.json' was not found and is not optional. The expected physical path was 'C:\Users\Saad\source\repos\Automation.Framework\AutomationRunner\bin\Debug\net6.0\Resources\applicationRegion.json'.
